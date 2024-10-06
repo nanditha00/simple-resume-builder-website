@@ -4,12 +4,12 @@ HTML:
 Simplified the layout and added appropriate section IDs and classes.
 Added a hidden section for link input.
 Removed the initial template selection.
-CSS:
 
+CSS:
 Added a new class .form-page to simplify hiding and showing form pages.
 Set the welcome page background to pastel violet.
-JavaScript:
 
+JavaScript:
 Streamlined the section display logic using arrays and loops.
 Combined form submission event listeners into a loop.
 Simplified event listeners for showing and hiding sections.
